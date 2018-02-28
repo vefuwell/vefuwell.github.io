@@ -1,4 +1,4 @@
-#### liberxue.github.io preview (demo) (https://liberxue.github.io/)
+#### liberxue.github.io preview (demo) (http:/www.vefuwell.club//)
 
 `Jekyll Themes`
 ----------
@@ -51,7 +51,7 @@
 
 * [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
  
-* [Email](mailto:liberxue@gmail.com)
+* [Email](mailto:saninvshen@gmail.com)
  
 * [Twitter](https://twitter.com/liberxue).
 
