@@ -1,11 +1,11 @@
-#### vefuwell.github.io preview (demo) (http://www.vefuwell.club/)
+#### liberxue.github.io preview (demo) (https://liberxue.github.io/)
 
 `Jekyll Themes`
 ----------
 [中文版帮助文档README](/ChinaREADME.md)
 ## `Lightweight`  `Minimalist`  `Jekyll blog`
 
-### The first step is to click [fork][https://github.com/vefuwell/vefuwell.github.io/fork]
+### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
 ### The second step is to modify the _config.yml in URL for your domain name
 
 ### OK all right, it's that simple
@@ -51,7 +51,7 @@
 
 * [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
  
-* [Email](mailto:saninvshen@gmail.com)
+* [Email](mailto:liberxue@gmail.com)
  
 * [Twitter](https://twitter.com/liberxue).
 
