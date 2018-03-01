@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 banana: true
 title: 你好，世界
 date: 2017-02-16
