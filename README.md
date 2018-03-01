@@ -1,4 +1,4 @@
-#### liberxue.github.io preview (demo) (http://www.vefuwell.club/)
+#### vefuwell.github.io preview (demo) (http://www.vefuwell.club/)
 
 `Jekyll Themes`
 ----------
