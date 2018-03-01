@@ -3,7 +3,7 @@ layout: blog
 banana: true
 title: 你好，世界
 date: 2017-02-16
-background-image: http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1243979923,3174720483&os=1186605609,1104549022&simid=0,0&pn=8&rn=1&di=17431551170&ln=1942&fr=&fmq=1519904688332_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170425%2F8f2d7f09610c47378bd1e5e5d4012046_th.jpeg&rpstart=0&rpnum=0&adpicid=0
+background-image: http://img.zcool.cn/community/0125cf554484830000019ae9b0d242.jpg@1280w_1l_2o_100sh.png
 tags:
 - first
 - blog
