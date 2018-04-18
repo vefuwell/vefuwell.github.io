@@ -2,7 +2,7 @@
 layout: blog
 banana: true
 title: 或许需要什么激励机制
-date: 2017-02-16
+date: 2018-04-18
 background-image: http://p4yo37gyt.bkt.clouddn.com/%E6%BF%80%E5%8A%B1%E4%BA%BA%E5%BF%83.jpg
 tags:
 - 开始励志
